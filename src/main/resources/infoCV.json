@@ -1,0 +1,52 @@
+{
+  "Name": "John Doe",
+  "City": "Paris",
+  "Introduction": "Passionné par l'ingénierie logicielle, spécialisé dans la transformation numérique",
+  "YEARS_OF_EXPERIENCE": "Années d'expérience dans la transformation numérique.",
+
+
+  "PROJECT_TYPE": "Projects de mise en œuvre de solutions informatiques",
+  "Certifications": "Architecte Certifié AWS | Développeur Adobe Experience Manager",
+
+  "degree_0": "2010",
+  "description_10": "Diplôme d'ingénieur en développement logiciel et gestion des systèmes d'information",
+
+  "degree_2": "2006",
+  "description_11": "Licence en développement logiciel",
+
+  "Period_0": "2020 – en cours",
+  "Role_0": "Entreprise & Solution Architect",
+  "City_0": "Paris",
+  "Entreprise_0": "IDFM, FHH, Equans, Engie, Suez, …",
+  "Tasks_0": "Gérer le processus d'architecture pour le domaine BUS & RAIL. \nInitier le processus de cartographie de l'architecture d'entreprise pour l'ensemble de l'organisation. \nAméliorer le processus de libération.",
+  "Technologies_0": "ITIL, Microservices, DevOps, CICD, Cloud",
+
+  "years_1": "2019 – 2020",
+  "job_title_1": "Architecte en chef des solutions",
+  "company_1": "Renault (Helios) – Boulogne",
+  "description_1": "Supporter Renault pour passer d'une plateforme marketing Adobe Online/Offline à une nouvelle architecture et diriger techniquement l'équipe de livraison.",
+  "Technologies_1": " Adobe AEC, API, Cloud AWS, Mulesoft, Sécurité, Agile.",
+
+  "years_2": "2018 – 2019",
+  "job_title_2": "Architecte d'entreprise",
+  "company_2": "BNPP Capgemini – Paris",
+  "description_2": "Définir l'architecture cible pour les canaux numériques des branches bancaires de détail de BNPP.\nDéfinir la feuille de route technique Go-to-cloud.\nImplémenter la plateforme pilote pour la filiale française.",
+  "Technologies_2": "  CMS, DAM, Marketing Automation, Platform de données et Analytics, AWS.",
+
+  "years_3": "2014 – 2017",
+  "job_title_3": "Architecte de solutions",
+  "company_3": "AXA – Nanterre",
+  "description_3": "Architecte et chef de projet technique pour la construction des canaux numériques d'AXA (Web, Portail client, Mobile, Marketing Automation, CRM)\nInitier l'initiation Go-to-cloud",
+  "Technologies_3": "  Adobe AEM Sites, Adobe AEM Asset, Campaign, React, API",
+
+  "years_4": "depuis 2007",
+  "job_title_4": "Chef technique / Architecte sur une série de plateformes numériques pour :",
+  "company_4": "Engie, Silversea, Accor Group, EDF, SNCF, Valeo, INWI, EINS, TELECOM",
+  "description_4": "Supporter et diriger les équipes de livraison et les équipes client (Technique, Business).",
+
+  "years_5": "2020 – 2021",
+  "job_title_5": "Architecte en chef des solutions - Expérience numérique",
+  "company_5": "Capgemini – Issy Les Moulineaux",
+  "description_5": "En charge de la conception de la plateforme d'expérience numérique pour les nouveaux clients.\nDévelopper la communauté et le partenariat avec le fournisseur de la plateforme d'expérience pour la région France.",
+  "results_5": "Résultats : 150 ETP, +18M€ +10% de croissance en 2020."
+}
